@@ -55,5 +55,5 @@ myresults.times_cpu = times_cpu;
 myresults.times_gpu = times_gpu;
 
 % save results
-save('results/sputnik_dot.mat','myresults');
+save('results/zenbook_dot.mat','myresults');
 
